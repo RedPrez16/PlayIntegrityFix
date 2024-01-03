@@ -1,11 +1,11 @@
 {
-    "PRODUCT": "c01_ww",
-    "DEVICE": "acer_c01",
-    "MANUFACTURER": "Acer Inc.",
-    "BRAND": "acer",
-    "MODEL": "C01",
-    "FINGERPRINT": "acer/c01_ww/acer_c01:7.1.1/NMF26F/1521514970:user/release-keys",
-    "SECURITY_PATCH": "2018-04-01",
-    "FIRST_API_LEVEL": 24,
+    "PRODUCT": "husky",
+    "DEVICE": "pixel 8 pro",
+    "MANUFACTURER": "Google",
+    "BRAND": "google",
+    "MODEL": "Pixel 8 Pro",
+    "FINGERPRINT": "google/husky/husky:14/UQ1A.231205.015/11084887:user/release-keys",
+    "SECURITY_PATCH": "2023-12-05",
+    "FIRST_API_LEVEL": 33,
     "FORCE_BASIC_ATTESTATION": true
 }
